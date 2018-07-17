@@ -21,21 +21,22 @@ In addition, the following three pie charts:
 
 
 **Average Fare and Number of Rides** 
-![alt text](https://github.com/cgrinstead12/Pyber-MatPlotLib/blob/master/Images/PyberRideSharingData2016.png)
-
 The chart above depicts three types of city types(Urban, Suburban, Rural), the number of rides per city and the average fare. One of the trends one can see immediately is that the Pyber app is more popular in Urban areas. The lower fare charges could be a result of people traveling shorter distances. There could be a strong case for the distances traveled given the city type. 
 
-**Total Fares by City Type**
-![alt text](https://github.com/cgrinstead12/Pyber-MatPlotLib/blob/master/Images/%25ofTotalFaresbyCityType.png)
+![alt text](https://github.com/cgrinstead12/Pyber-MatPlotLib/blob/master/Images/PyberRideSharingData2016.png)
 
+**Total Fares by City Type**
 The pie chart above shows us that the core userbase of the Pyber app favors Urban riders and is the majority source of revenue.
 
-**Total Rides by City Type**
-![alt text](https://github.com/cgrinstead12/Pyber-MatPlotLib/blob/master/Images/%25ofTotalRidesbyCityType.png)
+![alt text](https://github.com/cgrinstead12/Pyber-MatPlotLib/blob/master/Images/%25ofTotalFaresbyCityType.png)
 
+**Total Rides by City Type**
 Again we see that a large majority of rides tend to be in the Urban city type, then suburban, followed by rural. 
 
+![alt text](https://github.com/cgrinstead12/Pyber-MatPlotLib/blob/master/Images/%25ofTotalRidesbyCityType.png)
+
 **Total Drivers by City Type**
+In the last pie chart, the vast majority of the drivers drive in the urban city type followed by suburban. 
+
 ![alt text](https://github.com/cgrinstead12/Pyber-MatPlotLib/blob/master/Images/%25ofTotalDriversbyCityType.png)
 
-In the last pie chart, the vast majority of the drivers drive in the urban city type followed by suburban. 
